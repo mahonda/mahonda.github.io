@@ -3,7 +3,4 @@ layout: page
 title: "About me"
 ---
 
-Electrical Engineering B.S (Circuits and Systems)
-Electrical Engineering M.S (Circuits and Systems)
-University of California, San Diego
-
+Electrical Engineering M.S Student at the University of California, San Diego
