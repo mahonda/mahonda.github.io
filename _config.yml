@@ -18,13 +18,13 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "projects.md", title: "Projects"}
-  - {file: "projects.md", title: "CV"}
+  - {file: "resume.pdf", title: "CV"}
   - {file: "projects.md", title: "About"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: LinkedIn, icon: linkedin, url: "https://github.com/mahonda"}
   - {title: Mail, icon: envelope, url: "mailto:jp.masaya@gmail.com"}
-  - {title: Github, icon: linkedin, url: "https://github.com/mahonda"}
-  - {title: LinkedIn, icon: linkedin-in, url: "https://github.com/mahonda"}
+  - {title: Github, icon: github, url: "https://github.com/mahonda"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
