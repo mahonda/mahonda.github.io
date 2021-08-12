@@ -4,4 +4,4 @@ layout: post
 categories: media
 ---
 
-$$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
+
