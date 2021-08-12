@@ -9,7 +9,7 @@ categories: media
 
 To design a bus-powered USB Headphone Amplifier that is capable of driving over-the-ear headphones.
 
-$ \Omega $
+$$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
 
 
 
