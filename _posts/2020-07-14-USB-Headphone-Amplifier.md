@@ -9,4 +9,6 @@ categories: media
 
 I designed a bus-powered USB headphone amplifier that is capable of driving over-the-ear headphones. 
 
+
+
 ![USB Headphone Amp](/assets/images/IMG_4614.jpg)
