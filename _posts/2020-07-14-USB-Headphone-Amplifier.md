@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![USB Headphone Amp](/assets/images/IMG_4614.jpg))
+![USB Headphone Amp](/assets/images/IMG_4614.jpg)
 
 
 ## Objective
