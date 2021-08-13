@@ -9,6 +9,7 @@ categories: media
 
 This project involves using Cadence Virtuoso and MATLAB to size the transistors of an existing architecture that is composed of a folded cascode, common source amplifier, and a bias circuit to meet the specifications as shown below. 
 
+
 | Parameter                  | Specification             | 
 |----------------------------|---------------------------|
 | Supply Voltage             | 1.8 V                     | 
@@ -22,6 +23,9 @@ This project involves using Cadence Virtuoso and MATLAB to size the transistors 
 | Gain Margin                | $$\ge$$ 15 dB             |
 | Current Mirror "_m_" Factor| $$\le$$ 20                |
 | Gate Overdrive Voltage     | $$\ge$$ 150 mV            |
+
+
+
 
 
 
