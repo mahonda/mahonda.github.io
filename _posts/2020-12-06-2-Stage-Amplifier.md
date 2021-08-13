@@ -25,7 +25,7 @@ This project involved using Cadence Virtuoso and MATLAB to size the transistors 
 | Gate Overdrive Voltage     | $$\ge$$ 150 mV            |
 
 
-![2-Stage Architecture](/assets/images/2stageampsch.jpg)
+![2-Stage Architecture](/assets/images/2stageampsch.png)
 
 
 
