@@ -23,6 +23,6 @@ This project involves using Cadence Virtuoso and MATLAB to size the transistors 
 | Current Mirror "_m_" Factor| $\le$ 20                |
 | Gate Overdrive Voltage     | $\ge$ 150 mV            |
 
-\( 1/x^{2} \)
+\( (1+i)^{-n} \)
 
 
