@@ -20,10 +20,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "projects.md", sidebaricon: microchip, title: "Projects"}
   - {file: "resume.pdf", sidebaricon: file , title: "CV"}
   - {file: "about.md", sidebaricon: address-card, title: "About"}
-  
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/masaya-honda-5b206b167"}
   - {title: Mail, icon: envelope, url: "mailto:jp.masaya@gmail.com"}
+  
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  "Test"
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
