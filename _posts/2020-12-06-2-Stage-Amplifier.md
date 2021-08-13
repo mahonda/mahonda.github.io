@@ -11,7 +11,7 @@ categories: media
 
 This project involved using Cadence Virtuoso and MATLAB to size the transistors of an existing architecture that is composed of a folded cascode amplifier, common source amplifier, and a bias circuit to meet the specifications as shown below. The primary goal was to minimize the power disspation of the architecture while still meeting the specifications.
 
-
+  
 | Parameter                  | Specification             | Result                     | 
 |----------------------------|---------------------------|----------------------------
 | Supply Voltage             | 1.8 V                     | 1.8 V
