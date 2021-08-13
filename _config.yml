@@ -1,7 +1,6 @@
 title: "Masaya Honda"
 author: "Masaya Honda"
-description:
-  - {icon: apple}
+description: " "
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
