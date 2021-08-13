@@ -17,7 +17,7 @@ minimal: true              # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "projects.md", sidebaricon: microchip, title: "Projects"}
+  - {file: "projects.md", icon: microchip, title: "Projects"}
   - {file: "resume.pdf", icon: file , title: "CV"}
   - {file: "about.md", icon: address-card, title: "About"}
   
