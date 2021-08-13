@@ -17,9 +17,9 @@ minimal: true              # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "projects.md", icon: microchip, title: "Projects"}
-  - {file: "resume.pdf", icon: file , title: "CV"}
-  - {file: "about.md", icon: address-card, title: "About"}
+  - {file: "projects.md", sidebaricon: microchip, title: "Projects"}
+  - {file: "resume.pdf", sidebaricon: file , title: "CV"}
+  - {file: "about.md", sidebaricon: address-card, title: "About"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/masaya-honda-5b206b167"}
