@@ -14,7 +14,7 @@ This project involves using Cadence Virtuoso and MATLAB to size the transistors 
 | Output Load                | 5 pF                    |
 | Input Common-mode Range    | 0.2 V to 0.8 V          | 
 | Output Common-mode Range   | 0.4 V to 1.4 V          | 
-| Power Dissipation          | $\le$ 2.5 mW (Minimize) |
+| Power Dissipation          | $$\le$$ 2.5 mW (Minimize) |
 | DC Gain                    | $\ge$ 70 dB             |
 | Unity Gain Bandwidth       | $\ge$ 100 MHz           |
 | Phase Margin               | $\ge$ 65°               |
