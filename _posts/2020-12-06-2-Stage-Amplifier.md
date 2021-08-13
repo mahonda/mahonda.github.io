@@ -5,11 +5,15 @@ mathjax: true
 categories: media
 ---
 
+![2-Stage Architecture](/assets/images/2stageampsch.png)
+
 ## Abstract
 
 This project involved using Cadence Virtuoso and MATLAB to size the transistors of an existing architecture that is composed of a folded cascode amplifier, common source amplifier, and a bias circuit to meet the specifications as shown below. The primary goal was to minimize the power disspation of the architecture while still meeting the specifications.
 
----
+![2-Stage Architecture](/assets/images/2stageampsch.png)
+
+
 
 | Parameter                  | Specification             | 
 |----------------------------|---------------------------|
@@ -25,8 +29,6 @@ This project involved using Cadence Virtuoso and MATLAB to size the transistors 
 | Current Mirror "_m_" Factor| $$\le$$ 20                |
 | Gate Overdrive Voltage     | $$\ge$$ 150 mV            |
 
-
-![2-Stage Architecture](/assets/images/2stageampsch.png)
 
 
 
