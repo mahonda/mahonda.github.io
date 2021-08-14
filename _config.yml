@@ -1,6 +1,6 @@
 title: "Masaya Honda"
 author: "Masaya Honda"
-description: " "
+description: "Masaya Honda"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -18,7 +18,7 @@ minimal: true              # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {file: "about.md", icon: address-card, title: "Masaya Honda"}
-  - {file: "about.md", title: "Masaya Honda"}
+  - {file: "about.md", title: "About"}
   - {file: "projects.md", icon: microchip, title: "Projects"}
   - {file: "resume.pdf", icon: file , title: "CV"}
   
