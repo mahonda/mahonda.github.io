@@ -9,11 +9,7 @@ categories: media
 
 ## Abstract
 
-This project involved using Cadence Virtuoso and MATLAB to size the transistors of an existing architecture that is composed of a folded cascode amplifier, common source amplifier, and a bias circuit to meet the specifications as shown below. The primary goal was to minimize the power disspation of the architecture while still meeting the specifications.
-
-
-
-
+This project involved using Cadence Virtuoso and MATLAB to design by sizing the transistors of an existing architecture. The 2-stage operational transconductance amplifier is composed of a single-ended folded cascode amplifier and common source amplifier. The bias circuit consists of a constant-gm circuit that provides a current reference for cascode current mirrors to appropriately bias the transistors. Good stability was achieved by using Miller Compensation to split the dominant and non-dominant poles to improve the phase margin. As a consequence of the compensation capacitor, a RHP zero was introduced and was converted to a LHP zero by using a nulling resistor in series with the compensation capacitor.
 
 
 
