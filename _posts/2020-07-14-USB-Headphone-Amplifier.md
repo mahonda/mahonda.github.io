@@ -1,5 +1,5 @@
 ---
-title:  "USB Headphone Amplifier"
+title:  "Custom USB Headphone Amplifier"
 mathjax: true
 layout: post
 categories: media
