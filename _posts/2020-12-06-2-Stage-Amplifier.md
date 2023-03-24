@@ -9,7 +9,7 @@ categories: media
 
 ## Summary
 
-This project involved using Cadence Virtuoso and MATLAB to design by sizing the transistors of an existing architecture in a 180nm process using 1.8V supply rails. The 2-stage operational transconductance amplifier is composed of a single-ended folded cascode amplifier and common source amplifier. The bias circuit consists of a constant-gm circuit that provides a current reference that is robust to PVT variantions for the cascode current mirrors to appropriately bias the transistors. Good stability was achieved by using miller compensation and a nulling resistor through pole-zero cancellation to improve the phase margin. 
+This project involved using Cadence Virtuoso and MATLAB to design by sizing the transistors of an existing architecture in a 180nm process using a 1.8V supply. The 2-stage operational transconductance amplifier is composed of a single-ended folded cascode amplifier and common source amplifier. The bias circuit consists of a constant-gm circuit that provides a current reference that is robust to PVT variantions for the cascode current mirrors to appropriately bias the transistors. Good stability was achieved by using miller compensation and a nulling resistor through pole-zero cancellation to improve the phase margin. 
 
 
 
