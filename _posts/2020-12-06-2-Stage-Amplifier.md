@@ -9,7 +9,12 @@ categories: media
 
 ## Abstract
 
-This project involved using Cadence Virtuoso and MATLAB to design by sizing the transistors of an existing architecture in a 180nm process. The 2-stage operational transconductance amplifier is composed of a single-ended folded cascode amplifier and common source amplifier. The bias circuit consists of a constant-gm circuit that provides a current reference that is robust to PVT variantions for the cascode current mirrors to appropriately bias the transistors. Good stability was achieved by using Miller Compensation to split the dominant and non-dominant poles to improve the phase margin. As a consequence of the compensation capacitor, a RHP zero was introduced and was converted to a LHP zero by using a nulling resistor in series with the compensation capacitor.
+This project involved using Cadence Virtuoso and MATLAB to design by sizing the transistors of an existing architecture in a 180nm process using 1.8V supply rails. 
+
+Improved the stability through pole-zero cancellation using a miller compensation capacitor and a nulling resistor to achieve a phase margin of 68 degrees and a gain margin of 15.6dB.
+![image](https://user-images.githubusercontent.com/46824860/227656479-d6aa9dfe-7962-4a06-bfc2-00820f247b87.png)
+
+The 2-stage operational transconductance amplifier is composed of a single-ended folded cascode amplifier and common source amplifier. The bias circuit consists of a constant-gm circuit that provides a current reference that is robust to PVT variantions for the cascode current mirrors to appropriately bias the transistors. Good stability was achieved by using miller compensation and a nulling resistor through pole-zero cancellation to improve the phase margin. 
 
 
 
