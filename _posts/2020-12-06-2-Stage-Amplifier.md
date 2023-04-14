@@ -1,6 +1,6 @@
 ---
 title:  "2-Stage Operational Transconductance Amplifier using Miller Compensation"
-layout: post
+layout: 
 mathjax: true
 categories: media
 ---
