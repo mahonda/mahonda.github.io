@@ -1,4 +1,3 @@
-{% comment %}
 ---
 title:  "2-Stage Operational Transconductance Amplifier using Miller Compensation"
 layout: post
@@ -28,8 +27,6 @@ This project involved using Cadence Virtuoso and MATLAB to design by sizing the 
 | Current Mirror "_m_" Factor| $$\le$$ 20                | Specification Met          |
 | Gate Overdrive Voltage     | $$\ge$$ 150 mV            | Specification Met          |
 
-
-{% endcomment %}
 
 
 
