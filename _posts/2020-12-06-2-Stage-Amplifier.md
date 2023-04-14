@@ -1,4 +1,3 @@
-<!___
 ---
 title:  "2-Stage Operational Transconductance Amplifier using Miller Compensation"
 layout: post
@@ -29,7 +28,6 @@ This project involved using Cadence Virtuoso and MATLAB to design by sizing the 
 | Gate Overdrive Voltage     | $$\ge$$ 150 mV            | Specification Met          |
 
 
--->
 
 
 
