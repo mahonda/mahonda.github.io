@@ -11,4 +11,3 @@ I designed a bus-powered USB headphone amplifier that is capable of driving over
 
 ![USB Headphone Amp](/assets/images/IMG_4614.jpg)
 
-[For more details](https://mahonda.github.io/assets/pdfs/usb_hpamp_report.pdf)
